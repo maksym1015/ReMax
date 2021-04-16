@@ -1,0 +1,2 @@
+# ReMax
+Responsive HTML template
